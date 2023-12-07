@@ -15,6 +15,13 @@ I'm Saumya, an experienced IT professional with a robust background spanning eig
 **Authentication:** Firebase Email Password Authentication, JSON Web Tokens (JWT)
 
 
+## Socials 🌐
+
+- [@LinkedIn](https://www.linkedin.com/in/saumya-singh-92bb83a5/)
+
+
+
+
 <!--
 **saumyasinghgithub/saumyasinghgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
