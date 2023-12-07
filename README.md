@@ -2,7 +2,7 @@
 
 I'm Saumya, an experienced IT professional with a robust background spanning eight years in the industry. Over the past five years, my focus has been as a MERN Stack developer, contributing to diverse projects and leveraging a comprehensive skill set. I earned my Bachelor's degree in Technology with a specialization in Computer Science in 2013, laying the foundation for my journey in the dynamic field of technology. I am enthusiastic about leveraging my expertise to drive impactful solutions and contribute to the ever-evolving landscape of IT.
 
-## Tech Stack
+## Tech Stack 👩‍💻
 
 **Frontend:** ReactJs, Redux, Context API, React Router, Redux Toolkit, Bootstrap, HTML, CSS, Axios , Webpack, Babel etc
 
