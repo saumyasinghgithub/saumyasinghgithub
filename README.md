@@ -18,6 +18,7 @@ I'm Saumya, an experienced IT professional with a robust background spanning eig
 ## Socials 🌐
 
 - [@LinkedIn](https://www.linkedin.com/in/saumya-singh-92bb83a5/)
+- [@Medium](https://medium.com/@saumyasingh026)
 
 
 
