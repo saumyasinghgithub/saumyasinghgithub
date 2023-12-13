@@ -20,6 +20,7 @@ I'm Saumya, an experienced IT professional with a robust background spanning eig
 - [@LinkedIn](https://www.linkedin.com/in/saumya-singh-92bb83a5/)
 - [@Medium](https://medium.com/@saumyasingh026)
 - [@StackOverflow](https://stackoverflow.com/users/6691703/saumya-singh)
+- [@replit](https://replit.com/@saumyasingh34)
 
 
 
